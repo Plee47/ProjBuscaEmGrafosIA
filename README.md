@@ -1,2 +1,2 @@
 # ProjBuscaEmGrafosIA
-Projeto feito para mostrar o funcionamento de uma busca em profundidade utilizando python como uma inteligência artificial
+Este projeto consiste em uma implementação de algoritmos de busca em grafo em Python, que podem ser usados na prática para encontrar caminhos em redes de computadores, sistemas de navegação, jogos, inteligência artificial, entre outras aplicações que envolvam a busca de caminhos em grafos. Os algoritmos de busca em largura e profundidade são úteis para encontrar soluções para problemas que envolvem a exploração de um grande número de possibilidades em um grafo, tornando-se ferramentas importantes para diversas áreas de atuação.
